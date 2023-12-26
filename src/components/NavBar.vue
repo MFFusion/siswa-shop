@@ -6,22 +6,22 @@ import Sample from './Sample.vue';
 <template>
     <nav>
 
-    <div class=" flex flex-row items-center justify-center gap-8">
-      <div><RouterLink to = "/" ><button class="transition ease-in-out delay-150 rounded-xl bg-white hover:bg-lime-100 duration-300 text-1xl px-2 py-2 ml-3 my-1 font-medium">
-       HOMEPAGE
+    <div class=" flex flex-row items-center justify-center gap-4">
+      <div><RouterLink to = "/" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">
+       Homepage
     </button>
     </RouterLink></div>
 
     
-    <div><RouterLink to ="/about"> <button class="transition ease-in-out delay-150 rounded-xl bg-white hover:bg-lime-100 duration-300 text-1xl px-2 py-2 ml-3 my-1 font-medium">small BUSINESS </button></RouterLink>
+    <div><RouterLink to ="/about"> <button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Small Business</button></RouterLink>
     </div>
     
     <div>
-     <RouterLink to ="/other" ><button class="transition ease-in-out delay-150 rounded-xl bg-white hover:bg-lime-100 duration-300 text-1xl px-2 py-2 ml-3 my-1 font-medium">SERVICE</button> </RouterLink>
+     <RouterLink to ="/other" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Service</button> </RouterLink>
     </div>
 
     <div>
-     <RouterLink to ="/letgopage" ><button class="transition ease-in-out delay-150 rounded-xl bg-white hover:bg-lime-100 duration-300 text-1xl px-2 py-2 ml-3 my-1 font-medium"> LETGO STUFF</button> </RouterLink>
+     <RouterLink to ="/letgopage" ><button class="transition ease-in-out  rounded-xl bg-white hover:bg-lime-100  text-1xl px-2 py-2 ml-3 my-1 font-medium">Stuff To Let Go </button> </RouterLink>
     </div>
 
     </div>

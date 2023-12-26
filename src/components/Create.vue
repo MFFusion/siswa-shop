@@ -36,10 +36,10 @@ async function createPost() {
 
         <label for="type"></label>
 
-        <select v-model="typeOfProduct" name="type" id="type">
+        <select class="p-2 rounded-2xl bg-white border-2 border-lime-800 " v-model="typeOfProduct" name="type" id="type">
           <option value="Sample">Small Business</option>
-          <option value="service">service</option>
-          <option value="letgostuff">Let go stuff</option>
+          <option value="Service">service</option>
+          <option value="Letting Go">Let go stuff</option>
         </select>
       </div>
 
@@ -83,11 +83,10 @@ async function createPost() {
         />
       </div>
 
-      <div>
+      <div class="w-full flex">
         <button
           @click="createPost"
-          class="px-4 py-2 rounded-xl mx-2 my-1 bg-lime-500"
-        >
+          class="px-4 py-2 rounded-xl ml-auto  my-1 bg-lime-500">
           Submit
         </button>
       </div>

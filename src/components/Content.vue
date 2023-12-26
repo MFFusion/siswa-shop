@@ -29,7 +29,7 @@ function deleteTodo(todo){
         <div class=" col-span-2 h-full mx-3 mb-10 pl-4 pt-4  ">
             
 
-            <img src="C:\Users\User\OneDrive\Pictures\website\photo_2023-12-23_01-40-36.jpg"
+            <img src=""
             class="h-full w-full object-cover  "/>
         </div>
 
@@ -43,7 +43,7 @@ function deleteTodo(todo){
 
                     <div class="flex-none w-48 h-13">
                     <RouterLink to = "/about" ><button >
-                    <img src="C:\Users\User\OneDrive\Pictures\website\122.png" class=" object-cover object-center rounded-md my-1 mx-1
+                    <img src="" class=" object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                     </button>  </RouterLink>
                 </div>
@@ -64,7 +64,7 @@ function deleteTodo(todo){
 
                 <div class="flex-none w-48 h-13">
                     <RouterLink to ="/other" > <button>
-                    <img src="C:\Users\User\OneDrive\Pictures\website\123.png" class="  object-cover object-center rounded-md my-1 mx-1
+                    <img src="" class="  object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                     </button></RouterLink>
                 </div>
@@ -87,7 +87,7 @@ function deleteTodo(todo){
             <div class="flex h-13 w-82 mx-3 my-3  bg-blue-200 transition-all duration-300 ease-in-out transform hover:scale-110">
                 <div class=" flex-none w-48 h-13 ">
                      <RouterLink to ="/letgopage" ><button >
-                    <img src="C:\Users\User\OneDrive\Pictures\website\124.png" class="  object-cover object-center rounded-md my-1 mx-1
+                    <img src="" class="  object-cover object-center rounded-md my-1 mx-1
                     transition-all duration-300 ease-in-out transform hover:scale-105" />
                    </button> </RouterLink>
                 </div>

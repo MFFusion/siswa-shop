@@ -18,10 +18,10 @@
                 <!-- product picture -->
                 <div class="col-span-4 mr-6">
                     <!-- product picture -->
-                    <img src="https://i.pinimg.com/564x/c6/c5/5e/c6c55e70484dec5453d5b856d9224965.jpg" class="mx-6 my-6"
+                    <img src="https://i.pinimg.com/564x/c6/c5/5e/c6c55e70484dec5453d5b856d9224965.jpg" class="mx-6 my-6                     object-contain
+"
                     height="500"
                     width="700"
-                    object-contain
                     />
 
                 </div>
@@ -75,7 +75,7 @@
                             </div>
 
                             <div class="col-span-3">
-                                <img src="C:\Users\User\OneDrive\Pictures\website\table-chart-38.png"
+                                <img src=""
                                 height="200"
                                  width="200">
                             </div>
